@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+
+
+###  An idea while walking can become the path to something new.
+
+
+
+
+I'm glad you visited my profile.
 
 <!--
 **ElmerGJ/elmergj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
