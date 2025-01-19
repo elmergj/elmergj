@@ -6,7 +6,6 @@ I'm glad you visited my profile.
 <br/>
 <br/>
 <br/>
-✅ 🔭 I’m currently working on sw_orderManager
 
 <!--
 **ElmerGJ/elmergj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
