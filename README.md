@@ -6,14 +6,14 @@ I'm glad you visited my profile.
 <br/>
 <br/>
 <br/>
-
+<p>I'm working on [SQLite Builder Tool](https://github.com/elmergj/sqliteQueryBuilder)</p>
 <!--
 **ElmerGJ/elmergj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JAVA...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
