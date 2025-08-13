@@ -6,7 +6,7 @@ I'm glad you visited my profile.
 <br/>
 <br/>
 <br/>
-<p>I'm working on [SQLite Builder Tool](https://github.com/elmergj/sqliteQueryBuilder)</p>
+<p>I'm working on [SQLite Builder Tool](https://github.com/elmergj/SQLiteQueryBuilder)</p>
 <!--
 **ElmerGJ/elmergj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
