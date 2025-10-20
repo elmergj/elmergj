@@ -14,7 +14,7 @@ My main language is Java, and I’m currently learning popular Java frameworks l
 
 Languages: Java, SQL, MySQL, SQLite
 
-Frontend (learning): JavaScript, React
+Frameworks (learning): SpringBoot
 
 Version Control: Git, GitHub
 
@@ -24,8 +24,6 @@ Productivity Tools: Microsoft 365 (Expert level)
 <br>
 <br>
 ### 🚀 Current Projects
-
-<a href="https://github.com/elmergj/SQLiteQueryBuilder" target="_blank">Java SQLite Query Builder</a> - a lightweight library to make building SQLite queries easier and cleaner.
 
 <a href="#" target="_blank">MOVISH - Movies/Series Finder and manager</a> - a full-stack project using React (frontend) and Java (backend).
 <br>
