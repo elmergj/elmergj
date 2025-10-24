@@ -25,7 +25,7 @@ Productivity Tools: Microsoft 365 (Expert level)
 <br>
 ### 🚀 Current Projects
 
-<a href="https://www.github.com/elmergj/movish" target="_blank">MOVISH - Movies/Series Finder and manager</a> - a full-stack project using React (frontend) and Java (backend).
+<a href="https://www.github.com/elmergj/movish" target="_blank">MOVISH - Movies/Series Finder and manager</a> - a backend project using Java with springboot.
 <br>
 <br>
 🎯 Goals
