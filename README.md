@@ -1,20 +1,19 @@
 ## Hi there👋
 
-I'm Elmer Gonzalez and this is a brief about me.
-<br>
+<p>I'm Elmer Gonzalez and this is a brief about me.</p>
 <br>
 ### 👋 Introduction
 
-Hi! I'm a Backend Developer passionate about building efficient and maintainable systems.
-My main language is Java, and I’m currently learning popular Java frameworks like Spring Boot to strengthen my backend development skills.
-<br>
-<br>
+<p>Hi! I'm a Backend Developer passionate about building efficient and maintainable systems.
+My main language is Java, and I’m currently learning popular Java frameworks like Spring Boot to strengthen my backend development skills.</p><br>
 
 ### 🧠 Tech Stack & Skills
 
-Languages: Java, SQL, MySQL, SQLite
+Languages: Java, MySQL, SQLite, HTML, CSS
 
-Frameworks (learning): SpringBoot
+Frameworks (learning): Spring
+
+Software Engineering: Software Architecture (Onion Arch. - N-Tier Arch.) 
 
 Version Control: Git, GitHub
 
