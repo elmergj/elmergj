@@ -7,7 +7,7 @@ My main language is Java, and I’m currently learning popular Java frameworks l
 
 ### Tech Stack & Skills 🧠
 
-Languages: Java, MySQL, SQLite, HTML, CSS
+<p>Languages: Java, MySQL, SQLite, HTML, CSS
 
 Frameworks (learning): Spring
 
@@ -17,8 +17,8 @@ Version Control: Git, GitHub
 
 Operating Systems: Linux, Windows
 
-Productivity Tools: Microsoft 365 (Expert level)
-<br>
+Productivity Tools: Microsoft 365 (Expert level)</p><br>
+
 ### Current Projects 🚀
 
 <a href="https://www.github.com/elmergj/movish" target="_blank">MOVISH - Movies/Series Finder and manager</a> - a backend project using Java with springboot.
@@ -26,4 +26,4 @@ Productivity Tools: Microsoft 365 (Expert level)
 
 ### Goals 🎯
 
-I’m focused on improving my backend architecture skills, mastering Spring Boot, and building scalable full-stack applications.
+<p>I’m focused on improving my backend architecture skills, mastering Spring Boot, and building scalable full-stack applications. </p>
