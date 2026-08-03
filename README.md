@@ -2,7 +2,7 @@
 
 <p>I'm Elmer Gonzalez and this is a brief about me.</p>
 <br>
-<p>Hi! I'm a Backend Developer passionate about building efficient and maintainable systems.
+<p>Hi! I'm a Software Developer passionate about building efficient and maintainable systems.
 My main language is Java, and I’m currently learning popular Java frameworks like Spring Boot to strengthen my backend development skills.</p><br>
 
 ### Tech Stack & Skills 🧠
