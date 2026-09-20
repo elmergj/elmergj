@@ -1,28 +1,83 @@
-## Hi there👋
+# Hi there! 👋 I'm Elmer Gonzalez
 
-<p>I'm Elmer Gonzalez and this is a brief about me.</p>
-<br>
-<p>Hi! I'm a Software Developer passionate about building efficient and maintainable systems.
-My main language is Java, and I’m currently learning popular Java frameworks like Spring Boot to strengthen my backend development skills.</p><br>
+### Software Developer | Java & Kotlin | Backend Development
 
-### Tech Stack & Skills 🧠
+I'm a Software Developer passionate about building **efficient, maintainable, and well-structured software systems**.
 
-<p>Languages: Java, MySQL, SQLite, HTML, CSS
+My main focus is **backend development with Java and Kotlin**, and I'm currently expanding my expertise in **Spring Boot, software architecture, and scalable application design**.
 
-Frameworks (learning): Spring
+---
 
-Software Engineering: Software Architecture (Onion Arch. - N-Tier Arch.) 
+## 🧠 Tech Stack
 
-Version Control: Git, GitHub
+### Languages
 
-Operating Systems: Linux, Windows
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-Productivity Tools: Microsoft 365 (Expert level)</p><br>
+### Web
 
-### Current Projects 🚀
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><a href="https://www.github.com/elmergj/movish" target="_blank">MOVISH - Movies/Series Finder and manager</a> - a backend project using Java with springboot.</p><br>
+### Backend & Frameworks
 
-### Goals 🎯
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-<p>I’m focused on improving my backend architecture skills, mastering Spring Boot, and building scalable full-stack applications. </p>
+### Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 🏗️ Software Engineering
+
+I'm particularly interested in writing software that is easy to **understand, maintain, test, and evolve**.
+
+- Object-Oriented Programming
+- Software Architecture
+- Onion Architecture
+- N-Tier Architecture
+- Clean Code
+- Backend & API Development
+
+---
+
+## 🚀 Current Project
+
+### 🎬 [MOVISH](https://github.com/elmergj/movish)
+
+**Movies & Series Finder and Manager**
+
+A backend-focused application built with **Java and Spring Boot**, exploring API development, application architecture, and backend engineering practices.
+
+> 🔨 Currently working on improving the architecture and expanding its functionality.
+
+---
+
+## 🎯 What I'm Working On
+
+- ☕ Deepening my knowledge of **Java & Spring Boot**
+- 🟣 Expanding my skills with **Kotlin**
+- 🏗️ Improving my **software architecture & design** skills
+- 🔌 Building and designing **REST APIs**
+- 🚀 Learning how to build **scalable and maintainable applications**
+- 🌱 Exploring modern approaches to **backend and full-stack development**
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in learning, building new projects, and connecting with other developers.
+
+**Thanks for visiting my profile!** ⭐
