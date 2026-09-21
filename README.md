@@ -40,19 +40,6 @@ My main focus is **backend development with Java and Kotlin**, and I'm currently
 
 ---
 
-## 🏗️ Software Engineering
-
-I'm particularly interested in writing software that is easy to **understand, maintain, test, and evolve**.
-
-- Object-Oriented Programming
-- Software Architecture
-- Onion Architecture
-- N-Tier Architecture
-- Clean Code
-- Backend & API Development
-
----
-
 ## 🚀 Current Project
 
 ### 🎬 [MOVISH](https://github.com/elmergj/movish)
