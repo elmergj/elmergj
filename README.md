@@ -67,4 +67,4 @@ A backend-focused application built with **Java and Spring Boot**, exploring API
 
 I'm always interested in learning, building new projects, and connecting with other developers.
 
-**Thanks for visiting my profile!** ⭐
+**Thanks for visiting my profile!** ⭐_⭐
